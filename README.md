@@ -1,4 +1,4 @@
-# 🧮 Java Calculator
+# Java Calculator
 
 A clean and functional **Java GUI Calculator** built using **Java Swing**. This project was created as a Level 1 (Basic) task to demonstrate Java fundamentals, GUI development, event handling, and basic arithmetic operations.
 
