@@ -1,4 +1,4 @@
-# 🧮 Java Swing Calculator
+# 🧮 Java Calculator
 
 A clean and functional **Java GUI Calculator** built using **Java Swing**. This project was created as a Level 1 (Basic) task to demonstrate Java fundamentals, GUI development, event handling, and basic arithmetic operations.
 
@@ -34,23 +34,6 @@ The interface is inspired by a modern desktop calculator layout and includes a d
 - 🎨 Calculator-style dark and orange operator theme
 - 🔢 Automatic removal of unnecessary `.0` from whole-number results
 
----
-
-## 🖼️ Calculator Preview
-
-> Add the provided calculator screenshot to your repository and update the path below if needed.
-
-```text
-screenshots/
-└── calculator.png
-```
-
-```markdown
-![Calculator Preview](screenshots/calculator.png)
-```
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -74,36 +57,6 @@ Java-Calculator/
 │   └── calculator.png
 └── README.md
 ```
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-### 2. Open the project
-
-Open the project in **IntelliJ IDEA, Eclipse, VS Code, or NetBeans**.
-
-### 3. Compile the Java file
-
-```bash
-javac Calculator.java
-```
-
-### 4. Run the calculator
-
-```bash
-java Calculator
-```
-
-The calculator window will open on your desktop.
-
----
 
 ## 🧠 How It Works
 
@@ -151,8 +104,6 @@ The calculator includes basic edge-case handling:
 - **Square root of a negative number** → displays `Error`
 - **Invalid repeated decimal point** → prevented by the input logic
 
----
-
 ## 🎯 Learning Objectives
 
 This project demonstrates:
@@ -168,16 +119,12 @@ This project demonstrates:
 - Basic error handling
 - Working with Git and GitHub
 
----
-
 ## 📚 Task Context
 
 **Level:** 1 — Basic  
 **Task:** Basic Calculator
 
 The task focuses on creating a calculator capable of performing basic arithmetic operations and handling edge cases such as division by zero.
-
----
 
 ## 🔮 Future Improvements
 
@@ -190,17 +137,5 @@ Possible upgrades for a future version:
 - 📋 Copy/paste result support
 - 🎨 Improved responsive UI
 - 💾 Save calculation history
-
----
-
-## 👨‍💻 Author
-
-**Wasif Masood**
-
-Built with **Java Swing** as a practical Java programming project.
-
----
-
-## ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub!
