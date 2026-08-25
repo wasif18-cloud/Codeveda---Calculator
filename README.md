@@ -53,32 +53,6 @@ javac BasicCalculator.java
 java BasicCalculator
 ```
 
-## 💻 Example
-
-```text
-===== BASIC CALCULATOR =====
-Enter first number: 20
-Enter second number: 5
-
-Choose an operation:
-+  Addition
--  Subtraction
-*  Multiplication
-/  Division
-
-Enter operation: *
-Result = 100.0
-```
-
-### Division by Zero
-
-```text
-Enter first number: 20
-Enter second number: 0
-Enter operation: /
-Error: Cannot divide by zero.
-```
-
 ## 🎯 Learning Objectives
 
 * Understand Java classes and methods.
